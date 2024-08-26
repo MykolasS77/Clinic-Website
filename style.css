@@ -10,15 +10,12 @@
     font-style: normal;
 }
 
-   
-
 .white{
   background-color: rgba(8, 12, 252, 0.11);
   border-radius: 3%
 }
 
-
-#orange{
+#bgColor{
   background-color: rgb(44, 82, 139);
 }
 #gydKon2{
@@ -45,18 +42,6 @@
     }
   }
 
-  
-  /* @media (max-width: 576px) {
-    #pavadinimas{
-       /* width: auto;
-       font-size: 1rem;
-       top: 0px;       */
-       /* display: none; */
-    /* }
-    #gydKon2{
-      display: none;
-} 
-  } */ 
  
   
 
